@@ -55,7 +55,7 @@ I have experience working as a learning assistant in a mathematical lab, where I
 - **August 2023 - May 2027**
 - **GPA:** 3.92
 - **Relevant Courses:** Calculus I, Calculus II, Physics using Calculus I, Introduction to Chemistry
--**Achievements:**
+- **Achievements:**
 Successfully assisted in a mathematical lab as a learning assistant, enhancing my ability to communicate complex concepts effectively.
 Developed a solid foundation in both theoretical and experimental physics, with hands-on experience in various physics laboratories.
 Actively participated in research projects, contributing to the advancement of knowledge in the field.
@@ -63,7 +63,7 @@ Actively participated in research projects, contributing to the advancement of k
 
 ## English
 I have a C1 level in English, achieved through living in the USA, which has enhanced my fluency and communication skills.
-# Other languages:
+### Other languages:
 - **Ukranian** fluent
 - **Russian** fluent
 - **Korean** TOPIK I (Basic Proficiency)
