@@ -9,13 +9,13 @@
 
 I am a student at the University of Central Florida (UCF), majoring in Physics with a minor in Astronomy. My passion lies in physics and math, and I am currently exploring the world of coding. My primary goal is to acquire new skills and present myself as a well-rounded individual in the field of STEM.
 
-# Strengths:
+### Strengths:
 
 Strong analytical and problem-solving skills developed through my physics and math coursework.
 A dedicated and motivated learner, always eager to explore new concepts and technologies.
 Excellent teamwork and communication skills, essential for collaborative projects and research.
 
-# Goals and Priorities:
+### Goals and Priorities:
 
 To contribute to the scientific community by sharing knowledge and collaborating on innovative projects.
 To prepare for a successful academic and professional career in physics, with the long-term goal of pursuing a PhD in Astrophysics at MIT.
