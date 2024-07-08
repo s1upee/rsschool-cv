@@ -22,8 +22,8 @@ To prepare for a successful academic and professional career in physics, with th
 
 ## Skills
 - **Programming Languages:** Basic knowledge of Python and C.
-- **Web Development:** Currently learning HTML and JavaScript.
-- **Development Tools**: Familiar with version control systems and basic development tools.
+- **Web Development:** Currently learning HTML & CSS and JavaScript.
+- **Development Tools:** Familiar with version control systems and basic development tools.
 
 ## Code example
 
